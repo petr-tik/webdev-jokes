@@ -66,3 +66,6 @@ A: She was offended by the table layout.
 
 Some people, when confronted with a problem, think, “I know, I’ll use mod_rewrite.” Now they have 500 problems.
 — Eric Meyer
+
+Q: How do you comfort a JavaScript bug? 
+A: You console it
