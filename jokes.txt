@@ -63,3 +63,9 @@ A: She was offended by the table layout.
 
 Some people, when confronted with a problem, think, “I know, I’ll use mod_rewrite.” Now they have 500 problems.
 — Eric Meyer
+
+
+A web designer walks into a bar, but immediately leaves in disgust upon noticing the tables layout
+
+Q: Why did the CoffeeScript developer keep getting lost? 
+A: Because he couldn't find his source without a map
